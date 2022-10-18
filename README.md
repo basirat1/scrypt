@@ -3,7 +3,7 @@
 
 ## 🖼️ NFT Stealer / Crypto Stealer / Drainer Marketplace Template / Coins Drainer / Drainer NFT Marketplace
 
-![preview](https://media.discordapp.net/attachments/986649854728089610/987037794805354546/unknown.png?width=1261&height=610)
+![preview](https://cdn.discordapp.com/attachments/918958188244631564/1031880217997881434/nft-drainer-scrypt.jpg?width=1261&height=610)
 
 ## `💡 Features`
 - [x] No MetaMask detection
