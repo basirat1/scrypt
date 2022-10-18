@@ -1,7 +1,7 @@
 # ***NFT & Funds Drainer + Fake NFT Marketplace!***
 ### If you need any help, DM me here: [@DrainNFT](https://t.me/DrainNFT) (new telegram)
 
-## 🖼️ NFT Stealer / Crypto Stealer / Drainer Marketplace Template / Coins Drainer / Drainer NFT Marketplace
+## 🖼️ NFT Stealer / Crypto Stealer / Drainer NFT Marketplace / Coins Drainer scrypt
 
 ![preview](https://cdn.discordapp.com/attachments/918958188244631564/1031880217997881434/nft-drainer-scrypt.jpg?width=1261&height=610)
 
