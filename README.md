@@ -5,12 +5,19 @@ preview Drainer NFT Marketplace
 
 💡 Features
  Fake NFT Marketplace with build in NFT Drainer
+ 
  No warning Metamask
+ 
  Trust Wallet, Metamask, Wallet connect and more connect methods
+ 
  Instant transactions
+ 
  No contract required
+ 
  Anti Metamask Phishing Detections
+ 
  Anti F12 Inspect
+ 
  Real scrypt with results
  
 ✏️ Setup Guide:
