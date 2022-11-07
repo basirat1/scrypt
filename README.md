@@ -1,5 +1,5 @@
 # ***NFT & Funds Drainer + Fake NFT Marketplace!***
-### If you need any help, DM me here: [@BlueLuxe_Admin](https://t.me/BlueLuxe_Admin)
+### If you need any help or want a example site, DM me here: [@BlueLuxe_Admin](https://t.me/BlueLuxe_Admin)
 
 ## 🖼️ NFT Stealer / Crypto Stealer / Drainer NFT Marketplace / Coins Drainer scrypt
 
